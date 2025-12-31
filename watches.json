@@ -1,6 +1,42 @@
 [
-    {"id":"1", "name": "Apple Watch 7", "price": "559"},
-    {"id":"2", "name": "Apple Watch 8", "price": "559"},
-    {"id":"3", "name": "Apple Watch 9", "price": "559"},
-    {"id":"4", "name": "Apple Watch 5", "price": "559"}
+  {
+    "id": 1,
+    "name": "iPhone 17",
+    "brand": "Apple",
+    "image": "https://i.im.ge/2026/01/01/BKCWy8.ex1-apple-iphone-17-mist-blue877.jpeg",
+    "price": 179999,
+    "review": 4
+  },
+  {
+    "id": 2,
+    "name": "iPhone Air",
+    "brand": "Apple",
+    "image": "https://i.im.ge/2026/01/01/BKE1Ax.ex2-iphone-air-space-black565.jpeg",
+    "price": 209999,
+    "review": 4.6
+  },
+  {
+    "id": 3,
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "image":"https://i.im.ge/2026/01/01/BKE2pa.ex5-iphone-17-pro-deep-blue238.jpeg",
+    "price": 229999,
+    "review": 4.5
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro 3",
+    "brand": "Apple",
+    "image": "https://i.im.ge/2026/01/01/BKEd1J.ex4-airpods-pro-3-1411.jpeg",
+    "price": 33999,
+    "review": 5
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "image": "https://i.im.ge/2026/01/01/BKEmKY.ex6-iphone-16-pro-max-256gb-natural-titanium.jpeg",
+    "price": 199999,
+    "review": 5
+  }
 ]
